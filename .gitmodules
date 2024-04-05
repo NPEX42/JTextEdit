@@ -1,0 +1,3 @@
+[submodule "submodules/SwingML"]
+	path = submodules/SwingML
+	url = git@github.com:NPEX42/SwingML.git

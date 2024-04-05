@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JEdit.iml" filepath="$PROJECT_DIR$/JEdit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SwingML/SwingML.iml" filepath="$PROJECT_DIR$/SwingML/SwingML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SwingML/SwingML.iml" filepath="$PROJECT_DIR$/../SwingML/SwingML.iml" />
     </modules>
   </component>
 </project>

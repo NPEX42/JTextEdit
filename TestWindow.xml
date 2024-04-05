@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Window title="Test Window">
+   <Panel id="panel">
+      <Button id="hello" layout="North">Hello, World</Button>
+      <TextArea id="txt" layout="Center" rows="25" cols="80">
+         Hello, World
+         Hello World
+      </TextArea>
+      <Label layout="South">Copy</Label>
+   </Panel>
+</Window>
